@@ -1,0 +1,44 @@
+ 
+html{
+    padding:3%;
+    background-color:#041C32;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+h1{
+    color:#36AE7C;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+
+}
+h2{
+    color:white;
+}
+p{
+    color:white;
+
+}
+.ptext{
+    padding:0% 6%;
+}
+.video{
+    width:100%; 
+    padding:6%;
+}
+#contact{
+    text-align:center;
+    padding: 5%;
+}
+.logo{
+    color:white;
+    padding:5%;
+}
+#aboutme{
+    position:relative;
+    margin-top: 100px;
+}
+#channel{
+    position:relative;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
